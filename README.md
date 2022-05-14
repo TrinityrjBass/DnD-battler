@@ -1,3 +1,8 @@
+
+
+---current development is being done in another project. I'm archiving this repo----
+
+
 NB. This is a python 3 script and is not intended to work with 2. Some folk may have made forks that do —I don't know.
 NB. This code is rather messy. Don't believe me? Look at these embarrasing badges:       
 
